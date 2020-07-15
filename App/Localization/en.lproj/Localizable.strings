@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  thepol
+
+  Created by Chuong Vu Duy on 11/1/19.
+  Copyright © 2019 METADIUM. All rights reserved.
+*/
+
+"alert-network-title" = "네트워크 오류";
+"alert-network-error" = "네트워크 오류입니다.\n인터넷 환경 확인 후 다시 시도하세요";
+"alert-cancel" = "취소";
+"alert-try" = "재시도";
+
+"alert-ok" = "확인";
+
+//MARK: Login Screen
+"login_user_warning_title" = "알림";
+"login_password_warning_title" = "알림";
+"login_warning_title" = "알림";
+"login_user_name_not_empty" = "사용자 이름은 비워 둘 수 없습니다";
+"login_user_name_not_valid" = "사용자 이름이 잘못되었습니다";
+"login_password_not_empty" = "비밀번호는 비워 둘 수 없습니다";
+//MARK: Mart
+"mart_warning_title" = "알림";
+
+//MARK: Channel
+"channel_detail_warning_title" = "알림";
+"item_channel_warning_title" = "알림";

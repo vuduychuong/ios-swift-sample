@@ -1,0 +1,139 @@
+PODS:
+  - ABLoaderView (1.0.2)
+  - Alamofire (4.9.1)
+  - Bartinter (0.0.5)
+  - CHIPageControl (0.1.8):
+    - CHIPageControl/Aji (= 0.1.8)
+    - CHIPageControl/Aleppo (= 0.1.8)
+    - CHIPageControl/Chimayo (= 0.1.8)
+    - CHIPageControl/Fresno (= 0.1.8)
+    - CHIPageControl/Jalapeno (= 0.1.8)
+    - CHIPageControl/Jaloro (= 0.1.8)
+    - CHIPageControl/Paprika (= 0.1.8)
+    - CHIPageControl/Puya (= 0.1.8)
+  - CHIPageControl/Aji (0.1.8)
+  - CHIPageControl/Aleppo (0.1.8)
+  - CHIPageControl/Chimayo (0.1.8)
+  - CHIPageControl/Fresno (0.1.8)
+  - CHIPageControl/Jalapeno (0.1.8)
+  - CHIPageControl/Jaloro (0.1.8)
+  - CHIPageControl/Paprika (0.1.8)
+  - CHIPageControl/Puya (0.1.8)
+  - Differentiator (4.0.1)
+  - FittedSheets (1.4.5)
+  - Kingfisher (4.10.1)
+  - MXParallaxHeader (1.1.0)
+  - Nimble (8.0.5)
+  - ObjectMapper (4.2.0)
+  - QueryKit (0.13.0)
+  - Realm (3.21.0):
+    - Realm/Headers (= 3.21.0)
+  - Realm/Headers (3.21.0)
+  - RealmSwift (3.21.0):
+    - Realm (= 3.21.0)
+  - RxAlamofire (5.1.0):
+    - RxAlamofire/Core (= 5.1.0)
+  - RxAlamofire/Core (5.1.0):
+    - Alamofire (~> 4.8)
+    - RxSwift (~> 5.0)
+  - RxBlocking (5.0.1):
+    - RxSwift (~> 5)
+  - RxCocoa (5.0.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxDataSources (4.0.1):
+    - Differentiator (~> 4.0)
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxRealm (1.0.0):
+    - RealmSwift (~> 3.14)
+    - RxSwift (~> 5.0)
+  - RxRelay (5.0.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.1)
+  - RxTest (5.0.1):
+    - RxSwift (~> 5)
+  - YLProgressBar (3.11.0)
+
+DEPENDENCIES:
+  - ABLoaderView
+  - Alamofire
+  - Bartinter
+  - CHIPageControl (~> 0.1.3)
+  - CHIPageControl/Aji
+  - CHIPageControl/Aleppo
+  - CHIPageControl/Chimayo
+  - CHIPageControl/Fresno
+  - CHIPageControl/Jalapeno
+  - CHIPageControl/Jaloro
+  - CHIPageControl/Paprika
+  - CHIPageControl/Puya
+  - FittedSheets
+  - Kingfisher (~> 4.0)
+  - MXParallaxHeader
+  - Nimble
+  - ObjectMapper (~> 4.2.0)
+  - QueryKit
+  - Realm (~> 3.15)
+  - RealmSwift (~> 3.15)
+  - RxAlamofire
+  - RxBlocking
+  - RxCocoa (~> 5.0)
+  - RxDataSources (~> 4.0)
+  - RxRealm (~> 1.0.0)
+  - RxSwift (~> 5.0)
+  - RxTest
+  - YLProgressBar (~> 3.11.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - ABLoaderView
+    - Alamofire
+    - Bartinter
+    - CHIPageControl
+    - Differentiator
+    - FittedSheets
+    - Kingfisher
+    - MXParallaxHeader
+    - Nimble
+    - ObjectMapper
+    - QueryKit
+    - Realm
+    - RealmSwift
+    - RxAlamofire
+    - RxBlocking
+    - RxCocoa
+    - RxDataSources
+    - RxRealm
+    - RxRelay
+    - RxSwift
+    - RxTest
+    - YLProgressBar
+
+SPEC CHECKSUMS:
+  ABLoaderView: 389caecbd6f855bfcf3c1c0d80fb14ce4ab9da2c
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Bartinter: 3c1fc3bcb631b066fdd78f7e01f1635fbafffdea
+  CHIPageControl: 76b35c8309d8dd155e869c109cc6ffc0aaa465ff
+  Differentiator: 886080237d9f87f322641dedbc5be257061b0602
+  FittedSheets: 7f754c9f6fb4ea330cbc57c652b594255f2a6819
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  MXParallaxHeader: de3c867e10ba46e8f6e20c8ee1f2a910372b3b94
+  Nimble: 4ab1aeb9b45553c75b9687196b0fa0713170a332
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  QueryKit: 406c42b9b4eb5f8dab380a9e5bd9ef656542d1f4
+  Realm: 38e9dcb19104b58407167d99f70d4995f7c16023
+  RealmSwift: 3183cc1ad48378fbcd634311b22c0e6c44021152
+  RxAlamofire: a2d7621de4c23a0c6e7b476b504acc32838ee341
+  RxBlocking: c5e090f42d046df8b0e7752742510f349963710f
+  RxCocoa: e741b9749968e8a143e2b787f1dfbff2b63d0a5c
+  RxDataSources: efee07fa4de48477eca0a4611e6d11e2da9c1114
+  RxRealm: 1e81dcfca1fb50c3e9b3e1f8102bc875c5156a2e
+  RxRelay: 89d54507f4fd4d969e6ec1d4bd7f3673640b4640
+  RxSwift: e2dc62b366a3adf6a0be44ba9f405efd4c94e0c4
+  RxTest: 0132f952a61da82d5233abedaa559df91e5330e5
+  YLProgressBar: 0c0796a6e9b5e5d5040d15c8911e802b67ccb939
+
+PODFILE CHECKSUM: 99f78e0171a15ea1f7429e73f49149f3047e9b60
+
+COCOAPODS: 1.9.1
