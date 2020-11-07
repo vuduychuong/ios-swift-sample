@@ -57,11 +57,6 @@ target 'Domain' do
   rx_swift
   pod 'ObjectMapper', '~> 4.2.0'
 
-  target 'DomainTests' do
-    inherit! :search_paths
-    test_pods
-  end
-
 end
 
 target 'NetworkPlatform' do
@@ -71,11 +66,6 @@ target 'NetworkPlatform' do
   pod 'Alamofire'
   pod 'RxAlamofire'
   pod 'ObjectMapper', '~> 4.2.0'
-
-  target 'NetworkPlatformTests' do
-    inherit! :search_paths
-    test_pods
-  end
 
 end
 
@@ -87,11 +77,6 @@ target 'RealmPlatform' do
   pod 'QueryKit'
   pod 'RealmSwift', '~> 3.15'
   pod 'Realm', '~> 3.15'
-
-  target 'RealmPlatformTests' do
-    inherit! :search_paths
-    test_pods
-  end
 
 end
 
